@@ -1,10 +1,10 @@
 # Hi, I’m Abubaker 👋
 
-I'm a Software Engineer frontend focused with a degree in Computer Science from Unifor and over 5 years of experience building scalable, robust, and user-centered web applications. He works as a Full Stack Developer with a strong focus on the frontend, using React.js, Next.js, TypeScript, Shadcn, Tailwind CSS, Material UI, and SCSS to deliver modern, accessible, and high-performance interfaces.
+I'm a Software Engineer focused with a degree in Information Technology from University Of Sargodha and over 5 years of experience building scalable, robust, and user-centered web applications. He works as a Full Stack Developer with a strong focus on the frontend, using React.js, Next.js, TypeScript, Shadcn, Tailwind CSS, Material UI, and SCSS to deliver modern, accessible, and high-performance interfaces.
 
 <p align="center">
   <a href="https://github.com/im-abubakar">
-    <img src="https://github-readme-stats.vercel.app/api?username=im-abubakar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Vicente’s GitHub stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=im-abubakar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Abubaker’s GitHub stats" height="160" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-abubakar&layout=compact&langs_count=7&theme=dracula" alt="Top languages" height="160" />
   </a>
 </p>
@@ -31,11 +31,10 @@ Here are a few standout repositories you can explore:
 
 > 🔍 Visit my GitHub profile’s **Pinned** section for more projects!
 <div align="center">
-  <a href="mailto:vicentemattosf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:bakarbro123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/vicentemattos1" target="_blank"><img src="https://www.linkedin.com/in/bakar-dev-sol/" alt="LinkedIn" /></a>
   <a href="https://vicentemattos.dev" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </div>
 
 ---
 
-![Contribution Snake](https://github.com/vicentemattos1/vicentemattos1/blob/output/github-contribution-grid-snake.svg)
