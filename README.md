@@ -12,7 +12,7 @@ I'm a Software Engineer focused with a degree in Information Technology from Uni
 
 <p align="center">
   <a href="https://github.com/im-abubakar">
-    <img src="https://github-readme-stats.vercel.app/api?username=im-abubakar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Abubaker’s GitHub stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=im-abubakar&show_icons=true&theme=dracula&include_all_commits=8&count_private=true" alt="Abubaker’s GitHub stats" height="160" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-abubakar&layout=compact&langs_count=7&theme=dracula" alt="Top languages" height="160" />
   </a>
 </p>
