@@ -18,14 +18,20 @@ I'm a Software Engineer focused with a degree in Information Technology from Uni
 </p> -->
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-abubakar&layout=compact&langs_count=7&theme=dracula" alt="Top languages" height="160" />
-  <img src="https://img.shields.io/badge/⭐️%20Total%20Stars-20-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔄%20Total%20Commits-400-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📌%20Pull%20Requests-12-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🐛%20Issues%20Opened-5-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝%20Contributions-3-orange?style=for-the-badge" />
-</p>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: flex-start;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-abubakar&layout=compact&langs_count=7&theme=dracula" alt="Top languages" height="160" />
+    </div>
+    <div style="margin-left: 20px; display: flex; flex-direction: column;">
+      <img src="https://img.shields.io/badge/⭐️%20Total%20Stars-20-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🔄%20Total%20Commits-400-green?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/📌%20Pull%20Requests-12-purple?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🐛%20Issues%20Opened-5-yellow?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/🤝%20Contributions-3-orange?style=for-the-badge" />
+    </div>
+  </div>
+</div>
 
 
 
