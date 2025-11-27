@@ -4,67 +4,18 @@ I'm a Software Engineer focused with a degree in Information Technology from Uni
 
 
 
-## 📊 Bakar's GitHub Stats (Static)
-
-<p align="left">
-
-⭐ **Total Stars Earned:** 185  
-⏱️ **Total Commits:** 4,200  
-🔀 **Total PRs:** 75  
-🐛 **Total Issues:** 34  
-📦 **Contributed to (Last Year):** 18  
-
-</p>
-
+## 📊 Bakar's GitHub Stats (Static
 ---
 
 
 
-## 🎨 Most Used Languages (Static)
-
-<p>
-
-🟨 **JavaScript – 47.1%**  
-🟪 **CSS – 24.8%**  
-🟦 **SCSS – 20.3%**  
-🔵 **TypeScript – 5.5%**  
-🟥 **HTML – 1.6%**  
-🟩 **Vue – 0.5%**  
-🟪 **PHP – 0.1%**
-
-</p>
-
 
 <p align="center">
-  <div style="
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-  ">
-    
-  <!-- Stats Card -->
-  <div style="
-    background:#1e1f29;
-    border:1px solid #44475a;
-    padding:20px;
-    width:300px;
-    border-radius:10px;
-    color:#f8f8f2;
-    font-family:Arial;
-  ">
-    <h3 style="color:#ff79c6; margin-top:0;">Bakar's GitHub Stats (Static)</h3>
-
-    ⭐ <strong>Total Stars Earned:</strong> 185<br>
-    🕒 <strong>Total Commits:</strong> 4,200<br>
-    🔀 <strong>Total PRs:</strong> 75<br>
-    🐛 <strong>Total Issues:</strong> 34<br>
-    🧩 <strong>Contributed to (last year):</strong> 18<br>
-
-    <div style="margin-top:15px; text-align:center;">
-      <img src="https://i.imgur.com/5c0v1pZ.png" width="90" />
-    </div>
-  </div>
+  <a href="https://github.com/im-abubakar">
+    <img src="https://github-readme-stats.vercel.app/api?username=im-abubakar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Abubaker’s GitHub stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=im-abubakar&layout=compact&langs_count=7&theme=dracula" alt="Top languages" height="160" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⭐️%20Total%20Stars-185-blue?style=for-the-badge" />
