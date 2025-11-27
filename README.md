@@ -9,6 +9,35 @@ I'm a Software Engineer focused with a degree in Information Technology from Uni
   </a>
 </p>
 
+## 📊 Bakar's GitHub Stats (Static)
+
+<p align="left">
+
+⭐ **Total Stars Earned:** 185  
+⏱️ **Total Commits:** 4,200  
+🔀 **Total PRs:** 75  
+🐛 **Total Issues:** 34  
+📦 **Contributed to (Last Year):** 18  
+
+</p>
+
+---
+
+## 🎨 Most Used Languages (Static)
+
+<p>
+
+🟨 **JavaScript – 47.1%**  
+🟪 **CSS – 24.8%**  
+🟦 **SCSS – 20.3%**  
+🔵 **TypeScript – 5.5%**  
+🟥 **HTML – 1.6%**  
+🟩 **Vue – 0.5%**  
+🟪 **PHP – 0.1%**
+
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/⭐️%20Total%20Stars-185-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔄%20Total%20Commits-4.2k-green?style=for-the-badge" />
