@@ -18,6 +18,8 @@ I'm a Software Engineer focused with a degree in Information Technology from Uni
 
 ---
 
+
+
 ## 🎨 Most Used Languages (Static)
 
 <p>
@@ -32,6 +34,37 @@ I'm a Software Engineer focused with a degree in Information Technology from Uni
 
 </p>
 
+
+<p align="center">
+  <div style="
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  ">
+    
+  <!-- Stats Card -->
+  <div style="
+    background:#1e1f29;
+    border:1px solid #44475a;
+    padding:20px;
+    width:300px;
+    border-radius:10px;
+    color:#f8f8f2;
+    font-family:Arial;
+  ">
+    <h3 style="color:#ff79c6; margin-top:0;">Bakar's GitHub Stats (Static)</h3>
+
+    ⭐ <strong>Total Stars Earned:</strong> 185<br>
+    🕒 <strong>Total Commits:</strong> 4,200<br>
+    🔀 <strong>Total PRs:</strong> 75<br>
+    🐛 <strong>Total Issues:</strong> 34<br>
+    🧩 <strong>Contributed to (last year):</strong> 18<br>
+
+    <div style="margin-top:15px; text-align:center;">
+      <img src="https://i.imgur.com/5c0v1pZ.png" width="90" />
+    </div>
+  </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/⭐️%20Total%20Stars-185-blue?style=for-the-badge" />
