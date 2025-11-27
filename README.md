@@ -9,6 +9,14 @@ I'm a Software Engineer focused with a degree in Information Technology from Uni
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐️%20Total%20Stars-185-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔄%20Total%20Commits-4.2k-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📌%20Pull%20Requests-75-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐛%20Issues%20Opened-34-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝%20Contributions-120-orange?style=for-the-badge" />
+</p>
+
 ## 🚀 Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32" />
